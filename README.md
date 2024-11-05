@@ -2,7 +2,7 @@
 
 ### Desenvolvedor Full Stack
 
-Me chamo João Victor, tenho 23 anos e sou natural de São Paulo. Atualmente, estou cursando Ciência da Computação na UNISAGRADO. Sou apaixonado por tecnologia e sempre em busca de expandir meus conhecimentos e habilidades no desenvolvimento de software.
+Me chamo João Victor, tenho 23 anos e sou natural de Barra Bonita - SP. Atualmente, estou cursando Ciência da Computação na UNISAGRADO. Sou apaixonado por tecnologia e sempre em busca de expandir meus conhecimentos e habilidades no desenvolvimento de software.
 
 ---
 
@@ -28,11 +28,17 @@ Me chamo João Victor, tenho 23 anos e sou natural de São Paulo. Atualmente, es
 ---
 
 ## 📊 Estatísticas
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoCarv30&show_icons=true&theme=dark&count_private=true" alt="Estatísticas do GitHub de João Victor" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCarv30&layout=compact&theme=dark" alt="Linguagens mais usadas" />
-</div>
 
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=dark&count_private=true" alt="Estatísticas do GitHub de João Victor" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=dark" alt="Linguagens mais usadas" />
+    </td>
+  </tr>
+</table>
 ---
 
 ## 📌 Projetos em Destaque
