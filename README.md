@@ -18,6 +18,10 @@ Me chamo João Victor, tenho 23 anos e sou natural de São Paulo. Atualmente, es
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity%20Framework-68217A?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
@@ -47,7 +51,7 @@ Me chamo João Victor, tenho 23 anos e sou natural de São Paulo. Atualmente, es
 
 ### 🌐 Vamos Conectar?
 
-- **LinkedIn**: [Seu LinkedIn](https://www.linkedin.com/in/joaocarvalho-programador/)
+- **LinkedIn**: (https://www.linkedin.com/in/joaocarvalho-programador/)
 
 ---
 
