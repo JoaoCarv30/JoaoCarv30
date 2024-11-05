@@ -27,7 +27,6 @@ Me chamo João Victor, tenho 23 anos e sou natural de Barra Bonita - SP. Atualme
 
 ---
 
-## 📊 Estatísticas
 
 ## 📊 Estatísticas
 
