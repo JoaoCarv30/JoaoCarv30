@@ -29,8 +29,8 @@ Me chamo João Victor, tenho 23 anos e sou natural de São Paulo. Atualmente, es
 
 ## 📊 Estatísticas
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=dark&count_private=true" alt="Estatísticas do GitHub de João Victor" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=dark" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JoaoCarv30&show_icons=true&theme=dark&count_private=true" alt="Estatísticas do GitHub de João Victor" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCarv30&layout=compact&theme=dark" alt="Linguagens mais usadas" />
 </div>
 
 ---
