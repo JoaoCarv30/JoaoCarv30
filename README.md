@@ -32,10 +32,10 @@ Me chamo João Victor, tenho 23 anos e sou natural de Barra Bonita - SP. Atualme
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=dark&count_private=true" alt="Estatísticas do GitHub de João Victor" />
+      <img src="https://github-readme-stats.vercel.app/api?username=JoaoCarv30&show_icons=true&theme=dark&count_private=true" alt="Estatísticas do GitHub de João Victor" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=dark" alt="Linguagens mais usadas" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCarv30&layout=compact&theme=dark" alt="Linguagens mais usadas" />
     </td>
   </tr>
 </table>
